@@ -147,5 +147,6 @@ void reloj(){
     lcd.print("ALARMA CASA ");
     power_adc_disable();
   }
-  
+
+ 
 }
